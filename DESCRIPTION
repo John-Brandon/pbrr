@@ -5,7 +5,7 @@ Version: 0.1
 Date: 2015-12-08
 Author: John R. Brandon
 Maintainer: John R. Brandon <jbrandon@gmail.com>
-Description: R code to analyze PBR Tier System. Creates input files for various trials and tiers.
+Description: R code to analyze PBR Tier System results: (1) Creates input files for various trials and tiers from "input.par" file; (2) Munges and plots output files created by Fortran.
 URL: http://github.com/John-Brandon/pbrr
 BugReports: http://github.com/John-Brandon/pbrr/issues
 License: MIT
